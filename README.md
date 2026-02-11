@@ -175,3 +175,7 @@ Server starts at:
 ```
 http://127.0.0.1:8000
 ```
+
+## C4 Level 1 – System Context Diagram
+<img width="1957" height="252" alt="graphviz" src="https://github.com/user-attachments/assets/de7fb066-dc39-406c-ae1e-7d10a7c4933a" />
+
